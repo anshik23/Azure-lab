@@ -169,6 +169,3 @@ Remove-AzResourceGroup -Name az104-rg3
 
 [Microsoft AZ-104 – Lab 03: Manage Azure Resources by Using ARM Templates](https://github.com/MicrosoftLearning/AZ-104-MicrosoftAzureAdministrator/blob/master/Instructions/Labs/LAB_03b-Manage_Azure_Resources_by_Using_ARM_Templates.md)
 
-## Screenshots
-
-Add screenshots of the completed deployments, managed disks, PowerShell commands, Azure CLI commands, and Bicep deployment.
